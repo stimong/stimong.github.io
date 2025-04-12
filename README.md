@@ -1,4 +1,4 @@
-# 🦫 Capybara Jump: Jungle
+# 🦫 Capybara Pong
 
 > 2025년 상반기 출시 예정입니다.  
 > Leap through the wild jungle as a brave little capybara!
